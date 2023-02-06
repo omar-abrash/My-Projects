@@ -1,7 +1,7 @@
 # My-Projects
 
 
-## Reactjs Prjects
+## Reactjs Project
 
 Go to App [Open Mazad](https://black-market-d1534.firebaseapp.com/)
 
@@ -12,7 +12,7 @@ I have used ( ReactJs ) to build this Creative and fast UI with fully Routing Pa
 and I have used the ( Firebase ) services to make Dummy Data as a ( backend ), All Data getting and sending from ( Firebase ).
 
 
-## Next.js Prjects
+## Next.js Project
 
 Go to App [أكلات و وصفات](https://aklate-wasfate.vercel.app/)
 
